@@ -9,6 +9,8 @@ var guessesLeft = 9;
 var guessedLetters = [];
 var letterToGuess = null;
 
+//changing file name to assets from Asssets
+
 
 
 //computer guesses from the choices
